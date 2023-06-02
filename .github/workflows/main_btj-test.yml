@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'btj-test'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA9D41F6D9F44A8C91BF0FDFFB2080EC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E476A5BC650441BDB6CB91536A86C91B }}
           package: .
